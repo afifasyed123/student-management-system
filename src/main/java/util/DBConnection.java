@@ -14,7 +14,7 @@ public class DBConnection {
 
         String url = "jdbc:mysql://localhost:3306/student_management";
         String user = "root";
-        String pass = "root";
+        String pass = "YOUR_PASSWORD";
 
         return DriverManager.getConnection(url, user, pass);
     }

@@ -45,6 +45,8 @@ Implemented using:
 
 ## Screenshots
 
+(Add screenshots later)## Screenshots
+
 ### Student List
 
 ![Student List](Screenshots/student-list.png)
@@ -57,4 +59,4 @@ Implemented using:
 
 ### Edit Student
 
-![Edit Student](screenshots/edit-student.png)
+![Edit Student](Screenshots/edit-student.png)
