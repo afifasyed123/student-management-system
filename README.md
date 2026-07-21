@@ -47,12 +47,12 @@ Implemented using:
 
 ### Student List
 
-![Student List](screenshots/student-list.png)
+![Student List](Screenshots/student-list.png)
 
 
 ### Add Student
 
-![Add Student](screenshots/add-student.png)
+![Add Student](Screenshots/add-student.png)
 
 
 ### Edit Student
