@@ -45,4 +45,16 @@ Implemented using:
 
 ## Screenshots
 
-(Add screenshots later)
+### Student List
+
+![Student List](screenshots/student-list.png)
+
+
+### Add Student
+
+![Add Student](screenshots/add-student.png)
+
+
+### Edit Student
+
+![Edit Student](screenshots/edit-student.png)
